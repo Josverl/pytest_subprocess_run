@@ -1,0 +1,2 @@
+# Dummy
+print("Hello VSCode")
