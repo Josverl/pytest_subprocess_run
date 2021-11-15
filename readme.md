@@ -60,8 +60,15 @@ ImportError: no module named \'__future__\'\
 # versions  
 - Python ext - v2021.11.1422169775
 
-- ubuntu 20.04 on WSL2 on Winmdows 11 
-- Python3 3.8.10
+- ubuntu 20.04 on WSL2 on Windows 11 
+  - Python3 3.8.10
+  - Python 3.8.10 (default, Sep 28 2021, 16:10:42)
+    [GCC 9.3.0]
+
+- Windows  :
+  - Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)]
+
+
 - VSCode 
 
 for module versions see [requirements.txt][]
